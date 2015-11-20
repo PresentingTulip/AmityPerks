@@ -1,0 +1,18 @@
+main: xyz.tulipplugins.amityperks.AmityPerks
+name: AmityPerks
+version: 1.0
+depend: [Vault]
+commands:
+  superjump:
+    description: Gives you a jump boost.
+    permission: amityperks.superjump
+  ninja:
+    description: Makes you into a ninja.
+    permission: amityperks.ninja
+  nofall:
+    description: Makes you not take fall damage
+    permission: amityperks.nofall
+  wild:
+    description: Sends you into the wild
+    permission:
+    
